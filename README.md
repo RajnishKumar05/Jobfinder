@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Jobfinder
+
+>>>>>>> 9a1db631a19bc024dc1c61f1cc5fb57005ec4b71
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
